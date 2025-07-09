@@ -1,1 +1,1 @@
-mysql
+homeassistant/amd64-addon-mosquitto:6.5.1
